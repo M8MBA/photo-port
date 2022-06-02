@@ -23,3 +23,4 @@ describe('About component', () => {
     // render About
   });
 })
+
